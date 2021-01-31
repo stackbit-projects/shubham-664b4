@@ -12,7 +12,7 @@ sections:
     actions:
       - label: I am King
         url: /features
-        style: secondary
+        style: primary
   - section_id: features
     type: section_features
     background: gray
